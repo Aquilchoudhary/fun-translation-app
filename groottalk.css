@@ -1,0 +1,50 @@
+.container {
+    background-color: rgb(105, 63, 9);
+    text-align: center;
+    padding: 1rem; 5rem;
+}
+.main-head{
+    color: white;
+    font-size: 300%;
+}
+.input{
+    padding-left: 7rem;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+#txt-input{
+    width: 50rem;
+    height: 10rem;
+}
+#btn-translate {
+    background-color: rgb(105, 63, 9);
+    font-size: large;
+    padding: 1rem; 1rem;
+}
+.b1 {
+    padding-left: 7rem;
+}
+.sign{
+ text-align: center;
+ padding-top: 2rem;   
+}
+#output {
+    border: 1px solid black;
+    width: 50rem;
+    height: 10rem;
+    margin-left: 7rem;
+}
+#footer{
+    background-color: rgb(105, 63, 9);
+    text-align: center;
+}
+.about {
+    padding-top: 1rem;
+    color: white;
+}
+.text-last {
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-bottom: 2rem;
+    color: white;
+}
